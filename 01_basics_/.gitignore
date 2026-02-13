@@ -1,0 +1,8 @@
+# Ignore compiled class files
+*.class
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore logs, temp files
+*.log
